@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Blackjack</string>
+    <string name="avail_balance">Available Balance:</string>
+    <string name="default_balance">$0</string>
+    <string name="addMoneyButtonLabel">Add Money</string>
+    <string name="removeMoneyLabel">Remove Money</string>
+    <string name="warningDefault"></string>
+    <string name="startGame">Start Blackjack</string>
+    <string name="bankWelcomeString">Welcome to the BlackJack Bank!</string>
+    <string name="signature">Application by Tykia Miller, May 2020</string>
+    <string name="addLessThanTextWarning">Would you like to add this money to your balance? You won\'t be able to play with a balance of $0 or lower.</string>
+    <string name="addRemoveMoneyGeneral">Would you like to add or remove this amount of money?</string>
+    <string name="title_activity_blackjack">Blackjack</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+
+    <string name="dealerCardsLabel">Dealer\'s Cards</string>
+</resources>
